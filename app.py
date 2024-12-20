@@ -1,3 +1,4 @@
+# Print environment variables along with text at the output
 import os
 from helper import greet
 
